@@ -1,0 +1,2 @@
+# running guvicorn server
+uvicorn api_file:FastApi_instance --reload
